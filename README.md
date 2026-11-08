@@ -5,6 +5,9 @@ The goal is simple: pick up the ball and throw it at the pyramid to knock the cu
 
 ## Demo Video: [https://drive.google.com/file/d/1UNEzSIVkU6FsKjALt1Tbno-ELbONrjW8/view?usp=sharing](https://drive.google.com/file/d/1UNEzSIVkU6FsKjALt1Tbno-ELbONrjW8/view?usp=sharing)
 The video shows the project running on the Quest. Please skip ahead to 1:20 for times sake to see the bowling ball in action.
+This is also my apk, the file was so big it wouldnt upload on here so I uploaded it as a release, not sure if that is right
+https://github.com/laurenkutch1/Assignment4-COMP590/releases/tag/Assignment4APK
+
 
 ## How to Play: 
 Reach out with a controller and hold the grip button to pick up the ball. 
